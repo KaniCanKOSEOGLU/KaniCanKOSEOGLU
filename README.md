@@ -10,6 +10,12 @@ When the program is running, enter the following information respectively:
 -> 2. Labyrinth Height: a value between 4-20 
 -> 3. Number of Agents: a value between 1-5
 -> 4. Maximum Number of Rounds: a value between 10-200
+
+     
+   - Installation and Operation-
+Download your project files to the computer.
+The project folder is opened by saying 'vs code' or 'open folder' in another application.
+By clicking on the "Main.java" file, the 'Run code' is made and the project is started.
      
    - Game Controls-
  Select an option from the menu for agents in each round:
